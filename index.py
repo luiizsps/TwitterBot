@@ -2,6 +2,7 @@ import tweepy
 from time import sleep
 from random import choice
 
+# Tokens antigos
 bearer_token = r"AAAAAAAAAAAAAAAAAAAAAKxVeQEAAAAAph0uSxt7QAtYN6ujkMo1lyCCU3w%3D1JnfDfbWB83lu2lFtLdquMT2B8zBpGekciE7IkJKi66HwiCvY2"
 consumer_key = "9pYreB2pLfotJ8yMFRHW8zfQh"
 consumer_secret = "Ph5bO29RHf4RrcX6NZvs9lOgfwDwfoFFw8OVMQb1kPAuxRDwr6"
